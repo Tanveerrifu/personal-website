@@ -1,0 +1,76 @@
+body {
+    font-family: 'Yanone Kaffeesatz',
+        sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.primary-button {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: justify;
+}
+
+.half-width p {
+    width: 80%;
+    font-size: large;
+}
+
+.paragraph {
+    width: 80%;
+}
+
+.colorful-heading {
+    color: #FF8367;
+}
+
+.heading-text {
+    color: #363958;
+}
+
+.personal-photo {
+    width: 80%;
+}
+
+.first-section {
+    height: 400px;
+}
+
+.second-section {
+    height: 400px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.projects {
+    height: 300px;
+    background-color: #F8F9FC;
+}
+
+.projects h2 {
+    text-align: center;
+    padding-top: 60px;
+
+
+}
+
+#text-highlight {
+    color: tomato;
+}
